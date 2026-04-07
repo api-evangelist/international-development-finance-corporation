@@ -9,10 +9,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Federal Government
   - Development Finance
-  - Investment
   - Emerging Markets
+  - Federal Government
+  - Investment
 url: >-
   https://raw.githubusercontent.com/api-evangelist/international-development-finance-corporation/refs/heads/main/apis.yml
 created: '2024-12-03'
@@ -27,8 +27,8 @@ apis:
       information on development finance investments and programs.
     humanURL: https://www.dfc.gov
     tags:
-      - Federal Government
       - Development Finance
+      - Federal Government
     properties:
       - type: Documentation
         url: https://www.dfc.gov
