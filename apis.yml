@@ -8,7 +8,7 @@ description: >-
   for emerging markets. DFC does not currently expose a public developer
   API portal; transaction-level data is published as downloadable datasets.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Development Finance
   - Emerging Markets
