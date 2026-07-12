@@ -37,6 +37,8 @@ apis:
       - type: Documentation
         url: https://www.dfc.gov/our-impact/dfc-transaction-data
 common:
+  - type: DomainSecurity
+    url: security/international-development-finance-corporation-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/dfcgov
   - type: Website
