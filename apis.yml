@@ -24,6 +24,12 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/internatio
 tags:
   - Development Finance
   - Emerging Markets
+  - Federal-Government
+  - Investment
+  - Open Data
+tags_raw:
+  - Development Finance
+  - Emerging Markets
   - Federal Government
   - Investment
   - Open Data
@@ -42,6 +48,10 @@ apis:
       rather than as a programmatic API at this time.
     humanURL: https://www.dfc.gov/our-impact/dfc-transaction-data
     tags:
+      - Development Finance
+      - Open Data
+      - Transaction
+    tags_raw:
       - Development Finance
       - Open Data
       - Transactions
