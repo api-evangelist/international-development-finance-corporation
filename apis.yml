@@ -35,7 +35,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/internatio
 tags:
   - Development Finance
   - Emerging Markets
-  - Federal-Government
+  - Federal Government
   - Investment
   - Open Data
 tags_raw:
@@ -44,6 +44,7 @@ tags_raw:
   - Federal Government
   - Investment
   - Open Data
+  - Federal-Government
 url: >-
   https://raw.githubusercontent.com/api-evangelist/international-development-finance-corporation/refs/heads/main/apis.yml
 created: '2024-12-03'
