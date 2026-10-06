@@ -48,7 +48,7 @@ tags_raw:
 url: >-
   https://raw.githubusercontent.com/api-evangelist/international-development-finance-corporation/refs/heads/main/apis.yml
 created: '2024-12-03'
-modified: '2026-04-28'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis:
   - aid: international-development-finance-corporation:dfc-transaction-data
@@ -71,6 +71,8 @@ apis:
       - type: Documentation
         url: https://www.dfc.gov/our-impact/dfc-transaction-data
 common:
+  - url: https://www.dfc.gov/rss.xml
+    type: BlogRSS
   - type: DomainSecurity
     url: security/international-development-finance-corporation-domain-security.yml
   - type: LinkedIn
